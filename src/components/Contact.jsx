@@ -34,13 +34,13 @@ const teamMembers = [
     {
     name: 'Snigdha Chowdhury',
     image: '/assets/Snigdha.jpg',
-    email: 'arunima@example.com',
+    email: 'Snigdha@example.com',
     phone: '+91 23456 78901',
   },
     {
     name: 'Ankita Ghosh',
     image: '/assets/Ankita.jpg',
-    email: 'arunima@example.com',
+    email: 'Ankita@example.com',
     phone: '+91 23456 78901',
   }
 ];

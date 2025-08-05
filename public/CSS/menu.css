@@ -184,8 +184,8 @@
 .hero_sec {
     background-image: url(./images/bground.webp);
     background-repeat: no-repeat;
-    background-position: top center;     /* ensures image starts from the top */
-    background-size: cover;            /* scales down image to fit */
+    background-position: top center;     
+    background-size: cover;            
     height: 480px;
     display: flex;
     justify-content: center;
